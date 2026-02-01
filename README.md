@@ -19,6 +19,12 @@ If you need help, have feedback, or want to report a bug, please contact:
 
 ⸻
 
-Privacy
+Privacy Policy
 
-Reversi: Blocks & Blitz does not collect, store, or share any personal user data.
+Reversi: Blocks & Blitz does not collect, store, or share any personal data.
+
+The app does not use analytics, advertising frameworks, or third-party tracking.
+No user accounts are required, and no personal information is transmitted off the device.
+
+If you have questions about privacy, you can contact:
+Email: appaug(at)icloud(dot)com
