@@ -50,13 +50,13 @@ We retain data only as long as necessary for the purposes described above, or as
 
 ## 7. Children
 
-Swipe Sprint is not directed to children under the minimum age required by applicable law.  
-If you believe a child has provided data improperly, contact us and we will review.
+Swipe Sprint is not intended for children under the age required by applicable law in their country.  
+If you believe a child has provided personal data without appropriate consent, contact us and we will review and take reasonable steps to delete the data where required.
 
 ## 8. Your Rights
 
-Depending on your location, you may have rights to access, delete, or restrict processing of your data.  
-To make a request, contact us at the email below.
+Depending on your location, you may have privacy rights, such as requesting access to or deletion of personal data.  
+To make a request, contact us at the email below. We will review and respond in accordance with applicable law.
 
 ## 9. Contact
 
